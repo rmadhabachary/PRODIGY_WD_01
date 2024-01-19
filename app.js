@@ -1,0 +1,7 @@
+gsap.from('.logo',{duration:1,x:'-100%'})
+gsap.from('.menu',{duration:2,x:'-100%',opacity:0})
+gsap.from('.right-item',{duration:2,y:'-100%',ease:'bounce'})
+gsap.from('.h1',{duration:1,x:'-100%'})
+gsap.from('.p',{duration:2,x:'-100%'})
+gsap.from('.cta',{duration:3,x:'-100%'})
+gsap.from('.social',{duration:1,y:'100%',ease:'bounce'})
